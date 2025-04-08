@@ -1,1 +1,0 @@
-# bjarte-sanity-blog-demo
