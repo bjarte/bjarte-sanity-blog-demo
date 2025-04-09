@@ -15,3 +15,9 @@ Following a few guides to create an Astro site with a Sanity backend.
 ## More useful docs
 
 - <https://www.simeongriggs.dev/type-safe-groq-queries-for-sanity-data-with-zod>
+
+## Sanity hosted Studio
+
+<https://bjarte-sanity-blog-demo-spk.sanity.studio/structure>
+
+Remember to update this with `sanity deploy` after changes to the schemaTypes.
