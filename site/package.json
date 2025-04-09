@@ -15,5 +15,11 @@
     "@astrojs/sitemap": "^3.3.0",
     "@sanity/astro": "^3.2.6",
     "astro": "^5.6.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.2.6",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "prettier": "^3.5.3"
   }
 }
