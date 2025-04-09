@@ -4,9 +4,9 @@ Following a few guides to create an Astro site with a Sanity backend.
 
 ## Guides to working with Astro and Sanity together
 
-- <https://www.sanity.io/guides/sanity-astro-blog>
+<https://www.sanity.io/guides/sanity-astro-blog>
 
-- <https://www.sanity.io/plugins/sanity-astro>
+<https://www.sanity.io/plugins/sanity-astro>
 
 ## Simeon Griggs' opinionated guide to Sanity Studio
 
@@ -14,7 +14,7 @@ Following a few guides to create an Astro site with a Sanity backend.
 
 ## More useful docs
 
-- <https://www.simeongriggs.dev/type-safe-groq-queries-for-sanity-data-with-zod>
+<https://www.simeongriggs.dev/type-safe-groq-queries-for-sanity-data-with-zod>
 
 ## Sanity hosted Studio
 
