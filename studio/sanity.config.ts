@@ -8,7 +8,7 @@ export default defineConfig({
   title: 'SPK demo',
 
   projectId: '0hxm6fmh',
-  dataset: 'production',
+  dataset: 'spk-blog-demo',
 
   plugins: [structureTool(), visionTool()],
 
