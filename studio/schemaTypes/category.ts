@@ -1,5 +1,5 @@
-import {defineField, defineType} from 'sanity'
-import {TagIcon} from '@sanity/icons'
+import { defineField, defineType } from 'sanity'
+import { TagIcon } from '@sanity/icons'
 
 export default defineType({
   name: 'category',
@@ -18,4 +18,11 @@ export default defineType({
       type: 'text',
     }),
   ],
+  preview: {
+    select: {
+      title: 'title',
+      subtitle: 'description',
+      // media: 'image',
+    },
+  },
 })
